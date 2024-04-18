@@ -46,7 +46,7 @@ When Loan is Approved by the bank
 ![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/d58e9577-553a-4ff4-93a9-ccbb29a5da61)
 
 
-when loan is rejected by bank 
+# when loan is rejected by bank 
 
 ![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/633f2f0c-35f4-4e9b-9688-7fa21c062647)
 
