@@ -1,4 +1,4 @@
-## A new Approach for Loan Prediction using Machine Learning (Using Concepts of Pipelines and Columns Transformers)
+![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/11330932-eef0-408b-a244-e12494d73ab9)## A new Approach for Loan Prediction using Machine Learning (Using Concepts of Pipelines and Columns Transformers)
 
 (Additional Info : This project is Selected as one of the best project in my institue.)
 
@@ -37,6 +37,20 @@ Run the application using streamlit run app.py.
 
 ## Model Training
 The machine learning model used in this project was trained on a dataset containing historical loan application data. The model was trained to predict loan approval status based on various applicant features.
+
+## Working demo of my project 
+
+When Loan is Approved by the bank 
+
+![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/6c97ac50-42f8-414b-9a0c-cbf8aa516608)
+![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/d58e9577-553a-4ff4-93a9-ccbb29a5da61)
+
+
+when loan is rejected by bank 
+
+![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/633f2f0c-35f4-4e9b-9688-7fa21c062647)
+
+
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any enhancements or bug fixes.
