@@ -1,4 +1,4 @@
-![image](https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/11330932-eef0-408b-a244-e12494d73ab9)## A new Approach for Loan Prediction using Machine Learning (Using Concepts of Pipelines and Columns Transformers)
+## A new Approach for Loan Prediction using Machine Learning (Using Concepts of Pipelines and Columns Transformers)
 
 (Additional Info : This project is Selected as one of the best project in my institue.)
 
