@@ -41,6 +41,11 @@ The machine learning model used in this project was trained on a dataset contain
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any enhancements or bug fixes.
 
+## Future Enhancements
+1. Could include additional features such as historical loan data analysis or personalized recommendations for improving loan eligibility.
+   
+2. Integration with real-time data sources for more accurate predictions.
+
 ## License
 This project is licensed under the MIT License.
 
