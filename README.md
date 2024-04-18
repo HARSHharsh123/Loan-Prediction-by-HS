@@ -1,4 +1,4 @@
-## A new Approach for Loan Prediction using Machine Learning by Harsh Shukla
+## A new Approach for Loan Prediction using Machine Learning (Using Concepts of Pipelines and Columns Transformers)
 
 (Additional Info : This project is Selected as one of the best project in my institue.)
 
