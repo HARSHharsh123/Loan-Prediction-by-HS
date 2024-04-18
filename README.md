@@ -9,6 +9,10 @@ Banks are making major part of profits through loans. Though lot of people are a
 
 
 
+https://github.com/HARSHharsh123/Loan-Prediction-by-HS/assets/103876348/6dd7f5de-27bb-4fbb-83ff-16b0964bef8b
+
+
+
 ## Loan Approval Prediction System
 This project is a web application built using Streamlit for predicting loan approval status based on various applicant features. It utilizes a pre-trained machine learning model to provide instant predictions.
 
